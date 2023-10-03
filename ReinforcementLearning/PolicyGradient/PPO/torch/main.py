@@ -14,7 +14,7 @@ if __name__ == '__main__':
                     input_dims=env.observation_space.shape)
     n_games = 300
 
-    figure_file = 'plots/cartpole.png'
+    figure_file = 'D:\Users\TS\Documents\GitHub\Deep-RL-from-Phil\ReinforcementLearning\PolicyGradient\PPO\torch\cartpole.png'
 
     best_score = env.reward_range[0]
     score_history = []
